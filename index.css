@@ -1,0 +1,108 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav{
+    height: 93px;
+    background-color: #158976;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.EN{
+    color: white;
+    display: flex;
+    flex-direction: row;
+   
+}
+.mobile{
+    height: 600px;
+    
+    display: flex;
+}
+.picture{
+    width: 800px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: -10px;
+}
+.text{
+    width: 800px;
+    
+    align-items: center;
+    justify-content: center;
+}
+.text2{
+    padding-left: 300px;
+    padding-top: 100px;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 300px;
+}
+.simple{
+    font-size: 30px;
+}
+.witht{
+    font-size: 18px;
+}
+.android{
+    display: flex;
+    flex-direction: row;
+    color: #1CB39B;
+
+}
+.iphone{
+    display: flex;
+    flex-direction: row;
+    color: #1CB39B;
+}
+.mac{
+    display: flex;
+    flex-direction: row;
+    color: #1CB39B;
+}
+.secondbox{
+    height: 800px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.leftbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 700px;
+    height: 800px;
+    background-color: #D8E8EA;
+}
+.rightbox{
+ background-color: #D8E8EA;
+    width: 700px;
+    height: 800px;
+}
+.textw{
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight:bold;
+}
+.textw2{
+    font-size: 20px;
+    color: black;
+    padding-top: 5px;
+}
+.limage{
+  padding-left: 30px;
+  padding-top: 100px;
+}
