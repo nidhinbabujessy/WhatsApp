@@ -7,12 +7,18 @@ body{
 
 .nav{
     height: 93px;
+    width: 1200px;
     background-color: #158976;
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding-left: 200px;
     padding-right: 200px;
+    z-index: 1;
+    position:fixed;
+}
+.navback{
+    height: 93px;
 }
 .EN{
     color: white;
